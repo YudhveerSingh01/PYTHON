@@ -1,0 +1,7 @@
+#Author:YUDHVEER SINGH
+c=1
+while(c<=100):
+    print(c)
+    c=c+1
+
+
